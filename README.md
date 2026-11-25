@@ -1,4 +1,4 @@
-#My Journey Through Electronics
+## My Journey Through Electronics
 This is going to be the repository for all my Arduino projects during my learning journey
 For each project, I am going to give
 1. The images of my circuits
